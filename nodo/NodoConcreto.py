@@ -1,3 +1,7 @@
+
+class Nodo:
+    pass
+
 class NodoConcreto(Nodo):
     def __init__(self, valor=None):
         self._valor = valor
